@@ -1,0 +1,7 @@
+I chose to use express.js for the backend because it's fast and one of the most used frameworks so there are lots of resources to learn from.
+For the scraper I used axios and cheerio mostly because of the same reasons as express and because they seemed more begginer-friendly than the rest of the frameworks out there.
+
+An idea that struck me was to create a parameter for the API to filter the data with specified words.
+
+I'm always keen to learn and I actually found out a lot of new things about the API arhitecture and especially cheerio framework which I never used before. 
+

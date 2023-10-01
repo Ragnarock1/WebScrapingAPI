@@ -1,0 +1,19 @@
+********** API Documentation
+
+-Definition
+
+/:url
+
+url - The URL of the website you want to parse
+
+-Return
+
+The Api returns parsed h3 and p elements from the specified url
+
+-Definition
+
+/:url/sentiment
+
+-Return
+
+sentiment endpoint analyzes the text and retrieves the mood of the text ('positive' | 'neutral' | 'negative')
